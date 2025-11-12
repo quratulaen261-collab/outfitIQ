@@ -1,0 +1,1001 @@
+id,item_name,category,color,size,gender,season,price,material
+1,Floral Sneakers,Sneakers,Red,XL,Male,Autumn,PKR 4663,Wool
+2,Urban Handbag,Handbag,Blue,,Female,Winter,PKR 5224,Denim
+3,Zip Heels,Heels,Yellow,,Male,Winter,PKR 7634,Denim
+4,Casual Boots,Boots,Green,M,Unisex,Spring,PKR 4150,Nylon
+5,Relaxed Heels,Heels,Red,,Unisex,Summer,PKR 5057,Nylon
+6,Casual Shorts,Shorts,Red,L,Male,Spring,PKR 4611,Polyester
+7,Casual Boots,Boots,White,L,Female,Spring,PKR 4692,Silk
+8,Graphic Heels,Heels,Pink,,Unisex,Autumn,PKR 4169,Denim
+9,Relaxed Crop Top,Crop Top,Yellow,XL,Male,Winter,PKR 4839,Cotton
+10,Floral Skirt,Skirt,Grey,S,Male,Winter,PKR 5431,Polyester
+11,Graphic Jacket,Jacket,Green,XS,Female,Summer,PKR 4107,Denim
+12,Relaxed Jeans,Jeans,Yellow,L,Male,Autumn,PKR 1301,Silk
+13,Casual Crop Top,Crop Top,Yellow,XS,Female,Autumn,PKR 6152,Wool
+14,Urban Heels,Heels,Brown,,Unisex,Autumn,PKR 5604,Linen
+15,Mini Shorts,Shorts,Brown,L,Male,Spring,PKR 7062,Cotton
+16,Graphic Crop Top,Crop Top,Yellow,M,Male,Summer,PKR 7562,Linen
+17,Floral Jacket,Jacket,Black,XS,Male,Autumn,PKR 7737,Denim
+18,Classic Handbag,Handbag,Green,,Male,Summer,PKR 4084,Nylon
+19,Zip Hoodie,Hoodie,Black,XS,Unisex,Autumn,PKR 8017,Denim
+20,Mini Sneakers,Sneakers,Yellow,XL,Female,Spring,PKR 1803,Cotton
+21,Graphic Sneakers,Sneakers,Green,XS,Unisex,Spring,PKR 1695,Nylon
+22,Graphic Crop Top,Crop Top,Red,S,Female,Summer,PKR 3588,Wool
+23,Classic Sneakers,Sneakers,Grey,XS,Female,Winter,PKR 2084,Nylon
+24,Relaxed Jacket,Jacket,Black,XS,Unisex,Autumn,PKR 3540,Silk
+25,Elegant Hoodie,Hoodie,Brown,L,Unisex,Summer,PKR 7950,Polyester
+26,Sporty Jacket,Jacket,Pink,XL,Unisex,Autumn,PKR 7954,Linen
+27,Casual Crop Top,Crop Top,Red,M,Male,Winter,PKR 5617,Wool
+28,Classic Shorts,Shorts,Black,XL,Unisex,Spring,PKR 8058,Linen
+29,Graphic Boots,Boots,Red,S,Unisex,Summer,PKR 6216,Polyester
+30,Relaxed Hoodie,Hoodie,Brown,L,Female,Winter,PKR 8572,Silk
+31,Relaxed Heels,Heels,Pink,,Unisex,Autumn,PKR 6521,Cotton
+32,Sporty Shorts,Shorts,Black,S,Female,Spring,PKR 4260,Polyester
+33,Zip Shorts,Shorts,Green,S,Female,Winter,PKR 4427,Wool
+34,Zip Heels,Heels,Green,,Unisex,Autumn,PKR 5021,Wool
+35,Casual Heels,Heels,Beige,,Unisex,Summer,PKR 4725,Leather
+36,Mini Jacket,Jacket,Brown,L,Unisex,Autumn,PKR 7421,Cotton
+37,Classic Hoodie,Hoodie,Pink,M,Female,Autumn,PKR 8316,Wool
+38,Mini Hoodie,Hoodie,Beige,XL,Unisex,Summer,PKR 4615,Wool
+39,Mini Boots,Boots,Beige,XL,Unisex,Autumn,PKR 3705,Silk
+40,Sporty Jacket,Jacket,Yellow,L,Unisex,Autumn,PKR 8454,Polyester
+41,Relaxed Shorts,Shorts,Grey,M,Male,Winter,PKR 3657,Linen
+42,Floral Crop Top,Crop Top,Beige,XS,Unisex,Spring,PKR 4206,Cotton
+43,Classic Crop Top,Crop Top,Beige,S,Unisex,Summer,PKR 7407,Linen
+44,Classic Shorts,Shorts,Pink,XL,Female,Spring,PKR 5328,Cotton
+45,Graphic Crop Top,Crop Top,Red,XL,Female,Autumn,PKR 8963,Silk
+46,Mini Handbag,Handbag,Blue,,Female,Summer,PKR 1909,Linen
+47,Relaxed Boots,Boots,Green,XL,Female,Winter,PKR 5899,Polyester
+48,Zip Shorts,Shorts,Pink,M,Male,Summer,PKR 7852,Leather
+49,Zip Jeans,Jeans,Beige,M,Male,Spring,PKR 6522,Silk
+50,Floral Skirt,Skirt,White,L,Male,Spring,PKR 2315,Leather
+51,Floral Boots,Boots,Blue,L,Unisex,Spring,PKR 1759,Leather
+52,Classic Boots,Boots,Grey,XS,Male,Winter,PKR 6607,Nylon
+53,Floral Jacket,Jacket,Beige,S,Unisex,Spring,PKR 2064,Wool
+54,Casual Skirt,Skirt,Red,M,Female,Spring,PKR 8311,Denim
+55,Graphic Shorts,Shorts,Green,XS,Female,Summer,PKR 8798,Silk
+56,Urban Hoodie,Hoodie,Green,XS,Unisex,Autumn,PKR 8627,Nylon
+57,Casual Jeans,Jeans,Pink,S,Male,Spring,PKR 2860,Wool
+58,Casual Jeans,Jeans,Black,M,Unisex,Spring,PKR 6161,Leather
+59,Relaxed Shorts,Shorts,Green,S,Unisex,Autumn,PKR 2825,Wool
+60,Relaxed Jacket,Jacket,White,L,Female,Autumn,PKR 5878,Wool
+61,Floral Sneakers,Sneakers,Beige,XS,Male,Spring,PKR 4367,Wool
+62,Zip Heels,Heels,Red,,Female,Spring,PKR 4645,Denim
+63,Relaxed Hoodie,Hoodie,White,XS,Female,Summer,PKR 2976,Nylon
+64,Mini Jacket,Jacket,Yellow,M,Female,Autumn,PKR 4275,Cotton
+65,Zip Heels,Heels,Blue,,Unisex,Autumn,PKR 6986,Denim
+66,Urban Jacket,Jacket,Grey,M,Male,Spring,PKR 8105,Wool
+67,Elegant Heels,Heels,Brown,,Unisex,Winter,PKR 5142,Silk
+68,Urban Hoodie,Hoodie,Red,L,Female,Summer,PKR 7532,Wool
+69,Zip Jeans,Jeans,Red,L,Male,Autumn,PKR 2414,Polyester
+70,Graphic Heels,Heels,Blue,,Male,Winter,PKR 2577,Leather
+71,Sporty Crop Top,Crop Top,Grey,S,Female,Spring,PKR 7608,Linen
+72,Mini Hoodie,Hoodie,Beige,XS,Female,Winter,PKR 6482,Leather
+73,Urban Boots,Boots,Red,L,Unisex,Summer,PKR 7580,Nylon
+74,Zip Heels,Heels,Grey,,Male,Spring,PKR 6196,Silk
+75,Elegant Jacket,Jacket,Blue,M,Unisex,Summer,PKR 3110,Linen
+76,Casual Jeans,Jeans,Blue,XS,Unisex,Winter,PKR 6142,Nylon
+77,Elegant Hoodie,Hoodie,Grey,M,Male,Winter,PKR 4662,Polyester
+78,Floral Hoodie,Hoodie,Black,S,Unisex,Spring,PKR 7179,Leather
+79,Relaxed Boots,Boots,Yellow,XL,Unisex,Winter,PKR 3642,Denim
+80,Graphic Sneakers,Sneakers,Blue,XS,Unisex,Summer,PKR 5447,Leather
+81,Floral Shorts,Shorts,Pink,XS,Female,Autumn,PKR 2327,Linen
+82,Relaxed Jeans,Jeans,Brown,XS,Female,Spring,PKR 5948,Cotton
+83,Relaxed Hoodie,Hoodie,Red,L,Male,Spring,PKR 3469,Linen
+84,Sporty Jacket,Jacket,Red,XS,Female,Winter,PKR 4801,Linen
+85,Classic Hoodie,Hoodie,Black,S,Male,Spring,PKR 8812,Linen
+86,Floral Heels,Heels,Beige,,Male,Spring,PKR 4925,Cotton
+87,Zip Jacket,Jacket,Blue,M,Unisex,Autumn,PKR 4264,Linen
+88,Mini Shorts,Shorts,Blue,S,Female,Autumn,PKR 3652,Cotton
+89,Elegant Crop Top,Crop Top,Blue,S,Male,Spring,PKR 7255,Silk
+90,Urban Hoodie,Hoodie,Pink,XL,Male,Winter,PKR 4147,Cotton
+91,Mini Jacket,Jacket,Blue,XL,Female,Summer,PKR 6169,Nylon
+92,Relaxed Handbag,Handbag,Grey,,Unisex,Summer,PKR 6709,Denim
+93,Zip Hoodie,Hoodie,Black,L,Unisex,Spring,PKR 1793,Nylon
+94,Sporty Boots,Boots,Black,XL,Female,Spring,PKR 7246,Wool
+95,Graphic Heels,Heels,Beige,,Unisex,Summer,PKR 8152,Silk
+96,Classic Crop Top,Crop Top,Blue,XL,Unisex,Summer,PKR 2653,Wool
+97,Zip Jacket,Jacket,Brown,L,Unisex,Winter,PKR 8945,Linen
+98,Classic Boots,Boots,Pink,XS,Unisex,Spring,PKR 7121,Denim
+99,Casual Jacket,Jacket,Black,XL,Unisex,Winter,PKR 3309,Cotton
+100,Urban Boots,Boots,Blue,M,Unisex,Summer,PKR 1454,Silk
+101,Elegant Jacket,Jacket,Beige,L,Unisex,Summer,PKR 5220,Polyester
+102,Graphic Jacket,Jacket,Green,XS,Female,Winter,PKR 2043,Silk
+103,Mini Skirt,Skirt,White,M,Unisex,Autumn,PKR 6807,Leather
+104,Elegant Skirt,Skirt,Green,XL,Male,Summer,PKR 6192,Wool
+105,Relaxed Sneakers,Sneakers,Grey,L,Female,Autumn,PKR 8637,Cotton
+106,Relaxed Heels,Heels,Black,,Female,Summer,PKR 7892,Linen
+107,Floral Shorts,Shorts,Pink,M,Unisex,Autumn,PKR 5061,Denim
+108,Casual Jacket,Jacket,Grey,XS,Male,Spring,PKR 6661,Silk
+109,Sporty Skirt,Skirt,Grey,M,Male,Spring,PKR 6433,Wool
+110,Floral Skirt,Skirt,Yellow,XL,Female,Winter,PKR 5215,Cotton
+111,Elegant Sneakers,Sneakers,Blue,XL,Female,Winter,PKR 4366,Linen
+112,Relaxed Sneakers,Sneakers,Blue,S,Male,Winter,PKR 5896,Polyester
+113,Mini Sneakers,Sneakers,Pink,L,Male,Autumn,PKR 3635,Silk
+114,Relaxed Hoodie,Hoodie,White,M,Unisex,Spring,PKR 5423,Wool
+115,Graphic Boots,Boots,Blue,S,Unisex,Winter,PKR 1845,Denim
+116,Relaxed Heels,Heels,Blue,,Unisex,Summer,PKR 4834,Denim
+117,Urban Shorts,Shorts,Yellow,M,Female,Winter,PKR 3437,Cotton
+118,Mini Jacket,Jacket,Blue,L,Male,Winter,PKR 3306,Linen
+119,Floral Crop Top,Crop Top,Black,M,Unisex,Autumn,PKR 1834,Denim
+120,Zip Crop Top,Crop Top,Pink,L,Unisex,Spring,PKR 4684,Polyester
+121,Graphic Boots,Boots,Green,L,Unisex,Spring,PKR 6864,Cotton
+122,Casual Jacket,Jacket,Black,L,Unisex,Summer,PKR 8335,Polyester
+123,Urban Jacket,Jacket,Beige,S,Male,Autumn,PKR 4567,Leather
+124,Casual Hoodie,Hoodie,Yellow,XL,Male,Spring,PKR 5299,Silk
+125,Mini Boots,Boots,Black,L,Male,Summer,PKR 7291,Leather
+126,Classic Boots,Boots,Green,XL,Unisex,Autumn,PKR 4925,Cotton
+127,Zip Sneakers,Sneakers,Yellow,M,Female,Winter,PKR 1314,Denim
+128,Relaxed Heels,Heels,Yellow,,Unisex,Summer,PKR 3765,Leather
+129,Relaxed Sneakers,Sneakers,Red,M,Female,Winter,PKR 1433,Polyester
+130,Zip Hoodie,Hoodie,White,M,Female,Spring,PKR 5182,Denim
+131,Graphic Shorts,Shorts,Yellow,M,Unisex,Spring,PKR 8247,Leather
+132,Sporty Jacket,Jacket,Grey,XL,Female,Autumn,PKR 7967,Cotton
+133,Zip Handbag,Handbag,Blue,,Female,Summer,PKR 6713,Linen
+134,Relaxed Jeans,Jeans,White,XS,Male,Autumn,PKR 2701,Linen
+135,Floral Hoodie,Hoodie,Grey,S,Male,Summer,PKR 1810,Cotton
+136,Casual Boots,Boots,Beige,M,Female,Spring,PKR 3737,Cotton
+137,Graphic Boots,Boots,Red,XS,Female,Summer,PKR 4728,Denim
+138,Relaxed Jacket,Jacket,Beige,L,Unisex,Spring,PKR 7541,Polyester
+139,Zip Skirt,Skirt,Grey,S,Unisex,Winter,PKR 8733,Cotton
+140,Sporty Skirt,Skirt,Black,XL,Female,Summer,PKR 5405,Wool
+141,Urban Shorts,Shorts,Black,M,Unisex,Winter,PKR 7227,Denim
+142,Zip Jeans,Jeans,Yellow,XL,Female,Winter,PKR 6275,Wool
+143,Sporty Crop Top,Crop Top,Grey,XS,Unisex,Summer,PKR 3039,Leather
+144,Sporty Hoodie,Hoodie,White,S,Female,Summer,PKR 7611,Cotton
+145,Relaxed Shorts,Shorts,White,L,Female,Spring,PKR 7779,Silk
+146,Floral Sneakers,Sneakers,Black,S,Male,Autumn,PKR 7838,Polyester
+147,Mini Crop Top,Crop Top,Black,S,Male,Spring,PKR 7752,Wool
+148,Floral Jeans,Jeans,Beige,L,Female,Autumn,PKR 1816,Silk
+149,Mini Handbag,Handbag,White,,Male,Winter,PKR 4865,Linen
+150,Graphic Crop Top,Crop Top,Black,M,Unisex,Winter,PKR 4964,Leather
+151,Mini Boots,Boots,Red,L,Female,Winter,PKR 1465,Wool
+152,Graphic Hoodie,Hoodie,Pink,M,Unisex,Spring,PKR 6769,Denim
+153,Casual Hoodie,Hoodie,Brown,XS,Male,Summer,PKR 7697,Cotton
+154,Mini Hoodie,Hoodie,Pink,L,Female,Winter,PKR 7779,Leather
+155,Sporty Hoodie,Hoodie,White,XS,Unisex,Winter,PKR 4174,Nylon
+156,Zip Hoodie,Hoodie,Yellow,L,Unisex,Winter,PKR 5924,Linen
+157,Relaxed Jacket,Jacket,Blue,L,Male,Autumn,PKR 5742,Silk
+158,Zip Heels,Heels,Yellow,,Female,Spring,PKR 3541,Leather
+159,Elegant Shorts,Shorts,Yellow,XL,Unisex,Summer,PKR 8729,Polyester
+160,Urban Boots,Boots,Grey,XS,Unisex,Winter,PKR 5027,Cotton
+161,Graphic Sneakers,Sneakers,White,M,Male,Autumn,PKR 1425,Linen
+162,Casual Jeans,Jeans,Blue,L,Unisex,Summer,PKR 8500,Cotton
+163,Elegant Hoodie,Hoodie,Blue,XS,Male,Autumn,PKR 3951,Denim
+164,Sporty Hoodie,Hoodie,Brown,XS,Female,Spring,PKR 3928,Polyester
+165,Graphic Hoodie,Hoodie,Brown,L,Female,Winter,PKR 6463,Cotton
+166,Elegant Jeans,Jeans,Grey,XS,Unisex,Winter,PKR 6214,Denim
+167,Elegant Crop Top,Crop Top,Grey,S,Unisex,Winter,PKR 2414,Denim
+168,Floral Crop Top,Crop Top,Black,S,Female,Summer,PKR 5090,Wool
+169,Elegant Heels,Heels,Green,,Unisex,Summer,PKR 2035,Cotton
+170,Elegant Jacket,Jacket,Beige,XL,Female,Autumn,PKR 7530,Leather
+171,Floral Crop Top,Crop Top,Beige,XL,Female,Summer,PKR 6011,Nylon
+172,Floral Jacket,Jacket,Red,M,Male,Summer,PKR 6922,Cotton
+173,Elegant Jacket,Jacket,White,L,Unisex,Spring,PKR 1606,Wool
+174,Mini Hoodie,Hoodie,Green,L,Female,Spring,PKR 5077,Denim
+175,Mini Crop Top,Crop Top,Yellow,XS,Male,Summer,PKR 8409,Leather
+176,Sporty Hoodie,Hoodie,Yellow,M,Female,Autumn,PKR 3557,Cotton
+177,Elegant Handbag,Handbag,Red,,Male,Summer,PKR 6856,Wool
+178,Elegant Crop Top,Crop Top,Beige,S,Unisex,Summer,PKR 2623,Silk
+179,Elegant Heels,Heels,Black,,Male,Autumn,PKR 1363,Cotton
+180,Urban Sneakers,Sneakers,Red,L,Male,Summer,PKR 8196,Cotton
+181,Casual Sneakers,Sneakers,Red,XL,Male,Winter,PKR 7014,Linen
+182,Floral Heels,Heels,Yellow,,Unisex,Summer,PKR 8385,Wool
+183,Classic Jeans,Jeans,Beige,XL,Female,Autumn,PKR 1348,Wool
+184,Relaxed Jacket,Jacket,Beige,XS,Male,Spring,PKR 3245,Polyester
+185,Graphic Boots,Boots,Pink,M,Male,Autumn,PKR 7136,Wool
+186,Elegant Shorts,Shorts,White,M,Male,Winter,PKR 8269,Nylon
+187,Sporty Heels,Heels,Grey,,Female,Winter,PKR 7792,Leather
+188,Relaxed Sneakers,Sneakers,Grey,L,Unisex,Winter,PKR 4280,Cotton
+189,Casual Shorts,Shorts,Green,S,Male,Winter,PKR 6478,Nylon
+190,Zip Sneakers,Sneakers,Black,M,Unisex,Summer,PKR 4025,Polyester
+191,Mini Handbag,Handbag,Green,,Female,Spring,PKR 2414,Polyester
+192,Graphic Skirt,Skirt,Brown,XS,Unisex,Spring,PKR 6166,Cotton
+193,Sporty Skirt,Skirt,Grey,M,Unisex,Autumn,PKR 1777,Denim
+194,Zip Jacket,Jacket,Black,XL,Unisex,Winter,PKR 4126,Cotton
+195,Elegant Jeans,Jeans,Red,XL,Male,Spring,PKR 5373,Leather
+196,Relaxed Jacket,Jacket,Black,L,Female,Summer,PKR 7100,Linen
+197,Relaxed Boots,Boots,Grey,S,Female,Spring,PKR 6499,Nylon
+198,Floral Heels,Heels,Brown,,Unisex,Spring,PKR 3568,Polyester
+199,Sporty Crop Top,Crop Top,Blue,L,Unisex,Winter,PKR 5073,Nylon
+200,Zip Heels,Heels,Red,,Unisex,Autumn,PKR 6582,Linen
+201,Casual Skirt,Skirt,White,S,Male,Spring,PKR 5604,Denim
+202,Urban Hoodie,Hoodie,Brown,M,Female,Spring,PKR 4125,Cotton
+203,Urban Heels,Heels,Brown,,Unisex,Spring,PKR 8379,Silk
+204,Classic Crop Top,Crop Top,Green,XL,Unisex,Spring,PKR 8395,Denim
+205,Mini Shorts,Shorts,Yellow,M,Male,Spring,PKR 1784,Silk
+206,Classic Boots,Boots,Red,S,Unisex,Winter,PKR 1327,Silk
+207,Graphic Handbag,Handbag,Grey,,Female,Winter,PKR 3044,Cotton
+208,Zip Skirt,Skirt,Green,L,Unisex,Summer,PKR 5378,Cotton
+209,Urban Heels,Heels,Grey,,Unisex,Winter,PKR 2815,Nylon
+210,Zip Crop Top,Crop Top,Grey,M,Male,Spring,PKR 4065,Wool
+211,Urban Skirt,Skirt,Brown,L,Female,Winter,PKR 5752,Linen
+212,Relaxed Shorts,Shorts,Black,XS,Female,Summer,PKR 6753,Cotton
+213,Elegant Sneakers,Sneakers,Brown,M,Female,Spring,PKR 2796,Silk
+214,Sporty Sneakers,Sneakers,White,L,Unisex,Autumn,PKR 5450,Leather
+215,Graphic Boots,Boots,Grey,L,Female,Winter,PKR 3379,Denim
+216,Relaxed Hoodie,Hoodie,Pink,S,Male,Spring,PKR 6718,Wool
+217,Sporty Heels,Heels,Pink,,Unisex,Winter,PKR 2467,Leather
+218,Casual Shorts,Shorts,Yellow,XS,Unisex,Autumn,PKR 5422,Wool
+219,Relaxed Crop Top,Crop Top,Yellow,M,Female,Summer,PKR 5533,Cotton
+220,Floral Handbag,Handbag,Yellow,,Female,Spring,PKR 1554,Leather
+221,Relaxed Sneakers,Sneakers,Black,M,Unisex,Autumn,PKR 4121,Nylon
+222,Mini Shorts,Shorts,White,S,Female,Winter,PKR 3552,Silk
+223,Casual Jeans,Jeans,Grey,XS,Female,Winter,PKR 6975,Cotton
+224,Sporty Jeans,Jeans,Grey,XS,Male,Summer,PKR 1243,Cotton
+225,Classic Boots,Boots,Brown,L,Male,Spring,PKR 2894,Polyester
+226,Elegant Sneakers,Sneakers,Grey,XL,Male,Autumn,PKR 3628,Leather
+227,Floral Handbag,Handbag,Green,,Male,Spring,PKR 5953,Silk
+228,Classic Skirt,Skirt,Blue,S,Male,Autumn,PKR 4700,Linen
+229,Urban Handbag,Handbag,Brown,,Male,Spring,PKR 4327,Cotton
+230,Relaxed Shorts,Shorts,Yellow,XS,Male,Spring,PKR 1669,Wool
+231,Relaxed Boots,Boots,Pink,XL,Unisex,Summer,PKR 7923,Nylon
+232,Mini Hoodie,Hoodie,Black,M,Unisex,Spring,PKR 8237,Linen
+233,Urban Crop Top,Crop Top,Red,S,Unisex,Summer,PKR 8593,Wool
+234,Elegant Jeans,Jeans,Beige,XS,Female,Autumn,PKR 2180,Silk
+235,Urban Heels,Heels,Black,,Female,Spring,PKR 1743,Polyester
+236,Floral Crop Top,Crop Top,Brown,XL,Unisex,Summer,PKR 1836,Wool
+237,Casual Crop Top,Crop Top,White,M,Female,Summer,PKR 6926,Denim
+238,Elegant Skirt,Skirt,Yellow,XS,Female,Winter,PKR 6839,Leather
+239,Urban Sneakers,Sneakers,White,M,Male,Spring,PKR 2377,Wool
+240,Graphic Skirt,Skirt,Grey,S,Female,Autumn,PKR 7866,Polyester
+241,Mini Sneakers,Sneakers,Beige,S,Female,Autumn,PKR 2367,Denim
+242,Relaxed Jeans,Jeans,Pink,L,Unisex,Winter,PKR 6793,Silk
+243,Graphic Sneakers,Sneakers,Brown,L,Unisex,Summer,PKR 1244,Leather
+244,Elegant Jeans,Jeans,Green,S,Male,Spring,PKR 4339,Leather
+245,Graphic Skirt,Skirt,White,XS,Unisex,Spring,PKR 5028,Nylon
+246,Zip Boots,Boots,Brown,XL,Male,Winter,PKR 3039,Wool
+247,Sporty Hoodie,Hoodie,Brown,S,Female,Autumn,PKR 7055,Denim
+248,Graphic Sneakers,Sneakers,Yellow,XS,Unisex,Summer,PKR 7099,Leather
+249,Relaxed Jacket,Jacket,Red,S,Unisex,Spring,PKR 6645,Denim
+250,Casual Skirt,Skirt,Brown,M,Female,Autumn,PKR 2671,Silk
+251,Sporty Hoodie,Hoodie,Blue,M,Male,Spring,PKR 6555,Silk
+252,Casual Skirt,Skirt,Pink,XL,Male,Spring,PKR 3149,Denim
+253,Graphic Skirt,Skirt,Brown,M,Male,Winter,PKR 4782,Denim
+254,Urban Shorts,Shorts,Green,XL,Female,Autumn,PKR 7081,Nylon
+255,Elegant Boots,Boots,Red,XL,Male,Summer,PKR 4042,Wool
+256,Elegant Shorts,Shorts,Beige,S,Unisex,Winter,PKR 5751,Linen
+257,Sporty Heels,Heels,Pink,,Male,Spring,PKR 5856,Polyester
+258,Sporty Sneakers,Sneakers,Green,M,Female,Winter,PKR 6780,Wool
+259,Urban Heels,Heels,Beige,,Female,Winter,PKR 8203,Denim
+260,Classic Boots,Boots,Red,M,Male,Spring,PKR 1998,Linen
+261,Sporty Jacket,Jacket,Blue,L,Male,Spring,PKR 4375,Leather
+262,Floral Jacket,Jacket,Grey,XS,Male,Spring,PKR 7830,Cotton
+263,Relaxed Handbag,Handbag,Grey,,Male,Autumn,PKR 3221,Cotton
+264,Elegant Shorts,Shorts,Yellow,L,Female,Autumn,PKR 1391,Cotton
+265,Graphic Shorts,Shorts,Grey,M,Unisex,Autumn,PKR 2388,Silk
+266,Classic Crop Top,Crop Top,Brown,M,Unisex,Winter,PKR 4733,Silk
+267,Zip Jacket,Jacket,Green,M,Unisex,Autumn,PKR 4630,Polyester
+268,Urban Sneakers,Sneakers,Red,XS,Female,Autumn,PKR 1208,Leather
+269,Graphic Crop Top,Crop Top,Beige,XS,Unisex,Spring,PKR 1453,Nylon
+270,Casual Jeans,Jeans,Black,S,Unisex,Spring,PKR 5506,Linen
+271,Casual Heels,Heels,White,,Unisex,Winter,PKR 2137,Denim
+272,Classic Crop Top,Crop Top,Grey,M,Unisex,Winter,PKR 5383,Cotton
+273,Urban Hoodie,Hoodie,White,XS,Female,Summer,PKR 7096,Wool
+274,Zip Shorts,Shorts,Green,XL,Male,Winter,PKR 6698,Silk
+275,Sporty Handbag,Handbag,Black,,Male,Spring,PKR 3429,Denim
+276,Sporty Jacket,Jacket,Yellow,XS,Unisex,Autumn,PKR 5511,Polyester
+277,Urban Hoodie,Hoodie,White,XS,Female,Spring,PKR 4861,Denim
+278,Mini Handbag,Handbag,Yellow,,Male,Spring,PKR 3152,Wool
+279,Sporty Heels,Heels,Pink,,Unisex,Autumn,PKR 8831,Linen
+280,Graphic Jacket,Jacket,Yellow,M,Female,Summer,PKR 4401,Linen
+281,Classic Handbag,Handbag,Grey,,Female,Winter,PKR 7390,Denim
+282,Graphic Handbag,Handbag,Brown,,Female,Autumn,PKR 7002,Cotton
+283,Casual Hoodie,Hoodie,Red,L,Female,Summer,PKR 8700,Polyester
+284,Floral Jacket,Jacket,Black,XS,Female,Autumn,PKR 7965,Wool
+285,Graphic Jacket,Jacket,Pink,XS,Female,Summer,PKR 2717,Nylon
+286,Relaxed Sneakers,Sneakers,Red,XS,Male,Winter,PKR 7324,Silk
+287,Zip Jacket,Jacket,Beige,S,Male,Summer,PKR 8842,Linen
+288,Casual Sneakers,Sneakers,Green,XS,Male,Winter,PKR 2066,Leather
+289,Urban Shorts,Shorts,Red,S,Male,Winter,PKR 6655,Denim
+290,Mini Sneakers,Sneakers,Black,M,Male,Summer,PKR 5577,Denim
+291,Graphic Heels,Heels,Green,,Male,Winter,PKR 7990,Leather
+292,Casual Heels,Heels,Yellow,,Unisex,Summer,PKR 7511,Wool
+293,Relaxed Jeans,Jeans,Green,M,Female,Summer,PKR 2612,Wool
+294,Elegant Heels,Heels,Beige,,Male,Autumn,PKR 5651,Nylon
+295,Elegant Heels,Heels,Yellow,,Male,Winter,PKR 1306,Cotton
+296,Classic Jeans,Jeans,Green,L,Unisex,Autumn,PKR 4774,Leather
+297,Casual Boots,Boots,Green,L,Female,Spring,PKR 2317,Silk
+298,Classic Jeans,Jeans,Black,XS,Male,Autumn,PKR 5011,Silk
+299,Zip Crop Top,Crop Top,White,M,Male,Autumn,PKR 5832,Denim
+300,Elegant Handbag,Handbag,Black,,Unisex,Spring,PKR 6258,Cotton
+301,Graphic Crop Top,Crop Top,Black,XL,Unisex,Winter,PKR 3176,Cotton
+302,Mini Hoodie,Hoodie,Red,L,Unisex,Autumn,PKR 2989,Wool
+303,Casual Shorts,Shorts,Green,L,Male,Summer,PKR 3505,Denim
+304,Urban Boots,Boots,Yellow,S,Male,Winter,PKR 3967,Silk
+305,Elegant Crop Top,Crop Top,Pink,S,Unisex,Spring,PKR 1288,Silk
+306,Floral Boots,Boots,Red,S,Female,Spring,PKR 5149,Polyester
+307,Zip Heels,Heels,Beige,,Female,Autumn,PKR 5667,Wool
+308,Zip Sneakers,Sneakers,Pink,M,Unisex,Autumn,PKR 4237,Wool
+309,Zip Heels,Heels,Red,,Female,Spring,PKR 7427,Wool
+310,Classic Shorts,Shorts,Black,XL,Unisex,Winter,PKR 2757,Denim
+311,Zip Heels,Heels,Blue,,Female,Winter,PKR 4555,Leather
+312,Urban Boots,Boots,Yellow,M,Male,Spring,PKR 5211,Nylon
+313,Relaxed Sneakers,Sneakers,Yellow,L,Female,Autumn,PKR 7675,Silk
+314,Relaxed Boots,Boots,Brown,S,Male,Winter,PKR 8047,Polyester
+315,Classic Handbag,Handbag,Beige,,Male,Autumn,PKR 6828,Linen
+316,Relaxed Shorts,Shorts,Black,M,Male,Autumn,PKR 5941,Polyester
+317,Mini Jeans,Jeans,Grey,XL,Unisex,Summer,PKR 7646,Silk
+318,Sporty Heels,Heels,Brown,,Female,Spring,PKR 4844,Cotton
+319,Elegant Crop Top,Crop Top,White,XL,Female,Winter,PKR 3053,Leather
+320,Urban Hoodie,Hoodie,Pink,XL,Unisex,Winter,PKR 5793,Silk
+321,Urban Skirt,Skirt,Green,S,Male,Spring,PKR 2449,Polyester
+322,Floral Skirt,Skirt,Green,L,Unisex,Spring,PKR 4135,Silk
+323,Graphic Shorts,Shorts,Black,XS,Male,Autumn,PKR 1414,Denim
+324,Sporty Skirt,Skirt,Black,S,Female,Spring,PKR 4717,Linen
+325,Sporty Skirt,Skirt,Beige,S,Unisex,Summer,PKR 1765,Nylon
+326,Casual Crop Top,Crop Top,Beige,L,Male,Summer,PKR 3833,Cotton
+327,Mini Shorts,Shorts,Red,M,Male,Spring,PKR 8516,Denim
+328,Graphic Skirt,Skirt,Black,L,Male,Spring,PKR 7714,Silk
+329,Floral Skirt,Skirt,Blue,L,Unisex,Summer,PKR 6722,Cotton
+330,Graphic Handbag,Handbag,Blue,,Male,Winter,PKR 4370,Cotton
+331,Mini Shorts,Shorts,Black,XS,Unisex,Winter,PKR 7297,Leather
+332,Classic Sneakers,Sneakers,Red,S,Male,Autumn,PKR 6964,Nylon
+333,Graphic Handbag,Handbag,Black,,Unisex,Winter,PKR 8382,Leather
+334,Zip Skirt,Skirt,Red,M,Male,Winter,PKR 4781,Linen
+335,Zip Handbag,Handbag,Grey,,Unisex,Spring,PKR 3450,Cotton
+336,Elegant Hoodie,Hoodie,Beige,XL,Unisex,Autumn,PKR 1354,Silk
+337,Elegant Jacket,Jacket,White,S,Unisex,Autumn,PKR 6254,Denim
+338,Graphic Hoodie,Hoodie,Red,XL,Unisex,Summer,PKR 4932,Nylon
+339,Elegant Heels,Heels,White,,Female,Winter,PKR 6203,Silk
+340,Urban Jeans,Jeans,Black,S,Female,Spring,PKR 1978,Linen
+341,Elegant Shorts,Shorts,White,XL,Female,Autumn,PKR 5547,Polyester
+342,Mini Skirt,Skirt,Green,XS,Male,Spring,PKR 8062,Linen
+343,Graphic Skirt,Skirt,Grey,XL,Male,Winter,PKR 4927,Denim
+344,Mini Jacket,Jacket,Pink,M,Male,Spring,PKR 3777,Denim
+345,Elegant Handbag,Handbag,Beige,,Unisex,Spring,PKR 3246,Denim
+346,Graphic Skirt,Skirt,Brown,XL,Female,Autumn,PKR 1974,Wool
+347,Urban Sneakers,Sneakers,Blue,L,Unisex,Winter,PKR 5905,Nylon
+348,Floral Skirt,Skirt,Pink,M,Unisex,Winter,PKR 3065,Leather
+349,Relaxed Handbag,Handbag,Beige,,Male,Winter,PKR 4610,Leather
+350,Floral Boots,Boots,Green,L,Unisex,Spring,PKR 8379,Nylon
+351,Floral Jacket,Jacket,White,M,Unisex,Summer,PKR 7239,Leather
+352,Mini Handbag,Handbag,Pink,,Female,Winter,PKR 1898,Leather
+353,Floral Crop Top,Crop Top,Brown,S,Female,Winter,PKR 8662,Linen
+354,Relaxed Boots,Boots,White,M,Unisex,Summer,PKR 7543,Silk
+355,Floral Crop Top,Crop Top,Beige,S,Female,Winter,PKR 7159,Silk
+356,Floral Jeans,Jeans,Grey,M,Female,Spring,PKR 6606,Silk
+357,Mini Jeans,Jeans,Blue,M,Female,Spring,PKR 2384,Cotton
+358,Mini Crop Top,Crop Top,White,S,Female,Summer,PKR 4703,Wool
+359,Graphic Jeans,Jeans,Grey,M,Male,Winter,PKR 7449,Leather
+360,Elegant Jacket,Jacket,Blue,XS,Female,Winter,PKR 8706,Linen
+361,Casual Hoodie,Hoodie,Grey,XL,Unisex,Autumn,PKR 4342,Cotton
+362,Mini Hoodie,Hoodie,Green,S,Male,Autumn,PKR 3599,Denim
+363,Zip Shorts,Shorts,Grey,M,Male,Autumn,PKR 5737,Nylon
+364,Urban Handbag,Handbag,Black,,Female,Spring,PKR 3379,Cotton
+365,Urban Hoodie,Hoodie,Red,XL,Female,Summer,PKR 4737,Nylon
+366,Relaxed Jeans,Jeans,Green,L,Male,Summer,PKR 5638,Silk
+367,Classic Boots,Boots,Grey,XL,Female,Summer,PKR 5026,Polyester
+368,Relaxed Handbag,Handbag,Red,,Female,Spring,PKR 4393,Cotton
+369,Elegant Sneakers,Sneakers,Brown,S,Male,Winter,PKR 1309,Leather
+370,Zip Hoodie,Hoodie,Red,XL,Unisex,Summer,PKR 1290,Silk
+371,Classic Sneakers,Sneakers,Blue,XS,Male,Spring,PKR 7972,Denim
+372,Relaxed Boots,Boots,Brown,L,Male,Autumn,PKR 8736,Silk
+373,Casual Sneakers,Sneakers,Yellow,S,Male,Spring,PKR 7704,Cotton
+374,Classic Jeans,Jeans,Blue,XS,Female,Autumn,PKR 6098,Polyester
+375,Mini Jacket,Jacket,Beige,M,Unisex,Autumn,PKR 6001,Nylon
+376,Mini Skirt,Skirt,Red,L,Male,Spring,PKR 6317,Nylon
+377,Casual Handbag,Handbag,Green,,Female,Spring,PKR 5036,Leather
+378,Casual Heels,Heels,Blue,,Unisex,Summer,PKR 7925,Leather
+379,Urban Hoodie,Hoodie,Red,L,Female,Spring,PKR 8642,Polyester
+380,Floral Shorts,Shorts,Blue,XL,Female,Autumn,PKR 4159,Polyester
+381,Casual Boots,Boots,Black,XS,Male,Spring,PKR 3509,Silk
+382,Casual Handbag,Handbag,Grey,,Female,Winter,PKR 7757,Linen
+383,Elegant Boots,Boots,Yellow,XL,Female,Autumn,PKR 7356,Polyester
+384,Classic Crop Top,Crop Top,Brown,XS,Male,Spring,PKR 2985,Leather
+385,Graphic Heels,Heels,Pink,,Unisex,Winter,PKR 6755,Polyester
+386,Casual Jacket,Jacket,Pink,S,Unisex,Winter,PKR 4441,Linen
+387,Relaxed Skirt,Skirt,Green,L,Female,Winter,PKR 6006,Nylon
+388,Casual Shorts,Shorts,Brown,S,Female,Summer,PKR 4462,Cotton
+389,Relaxed Boots,Boots,Grey,L,Unisex,Spring,PKR 1408,Polyester
+390,Mini Handbag,Handbag,Green,,Female,Spring,PKR 7144,Leather
+391,Urban Jeans,Jeans,Green,L,Unisex,Winter,PKR 4669,Leather
+392,Floral Skirt,Skirt,Red,M,Female,Spring,PKR 7929,Silk
+393,Relaxed Boots,Boots,Grey,S,Unisex,Summer,PKR 7206,Denim
+394,Relaxed Handbag,Handbag,Green,,Female,Spring,PKR 4033,Silk
+395,Urban Crop Top,Crop Top,Yellow,XS,Female,Spring,PKR 3837,Leather
+396,Urban Shorts,Shorts,Blue,XS,Male,Autumn,PKR 3742,Polyester
+397,Zip Jeans,Jeans,Red,XL,Female,Spring,PKR 1531,Cotton
+398,Casual Handbag,Handbag,Pink,,Female,Spring,PKR 3247,Denim
+399,Graphic Crop Top,Crop Top,Black,S,Male,Winter,PKR 2409,Nylon
+400,Graphic Jeans,Jeans,Green,M,Female,Autumn,PKR 1390,Nylon
+401,Zip Heels,Heels,Yellow,,Unisex,Winter,PKR 7356,Linen
+402,Graphic Shorts,Shorts,White,S,Male,Spring,PKR 2035,Leather
+403,Sporty Heels,Heels,White,,Female,Spring,PKR 4997,Wool
+404,Urban Handbag,Handbag,Black,,Male,Summer,PKR 2758,Wool
+405,Zip Heels,Heels,Green,,Unisex,Winter,PKR 3486,Linen
+406,Sporty Hoodie,Hoodie,Grey,XS,Unisex,Summer,PKR 6546,Wool
+407,Casual Handbag,Handbag,Yellow,,Male,Winter,PKR 7419,Cotton
+408,Urban Sneakers,Sneakers,Yellow,M,Female,Autumn,PKR 3408,Nylon
+409,Urban Crop Top,Crop Top,Beige,S,Male,Autumn,PKR 4298,Leather
+410,Sporty Hoodie,Hoodie,Yellow,XL,Male,Autumn,PKR 6340,Cotton
+411,Elegant Boots,Boots,Brown,S,Unisex,Winter,PKR 5892,Silk
+412,Urban Crop Top,Crop Top,Green,L,Unisex,Summer,PKR 4502,Polyester
+413,Zip Jeans,Jeans,Beige,XL,Female,Summer,PKR 4825,Nylon
+414,Graphic Sneakers,Sneakers,Grey,L,Female,Winter,PKR 7636,Silk
+415,Sporty Jacket,Jacket,Black,M,Female,Summer,PKR 2801,Linen
+416,Elegant Boots,Boots,White,L,Male,Autumn,PKR 8119,Nylon
+417,Elegant Sneakers,Sneakers,Grey,M,Unisex,Winter,PKR 6464,Cotton
+418,Floral Handbag,Handbag,Green,,Male,Spring,PKR 2428,Linen
+419,Elegant Jacket,Jacket,White,M,Male,Spring,PKR 4291,Silk
+420,Zip Hoodie,Hoodie,Red,XL,Unisex,Autumn,PKR 5841,Cotton
+421,Elegant Boots,Boots,Blue,S,Unisex,Spring,PKR 6497,Denim
+422,Elegant Hoodie,Hoodie,Black,L,Female,Autumn,PKR 6745,Silk
+423,Classic Jacket,Jacket,Brown,XS,Female,Spring,PKR 8733,Nylon
+424,Floral Jacket,Jacket,Yellow,M,Unisex,Winter,PKR 3160,Leather
+425,Mini Crop Top,Crop Top,Grey,M,Male,Autumn,PKR 6412,Cotton
+426,Sporty Handbag,Handbag,Blue,,Unisex,Spring,PKR 8123,Linen
+427,Sporty Shorts,Shorts,Brown,XS,Male,Summer,PKR 2245,Silk
+428,Classic Hoodie,Hoodie,Blue,XS,Male,Summer,PKR 3082,Polyester
+429,Floral Sneakers,Sneakers,Grey,L,Male,Autumn,PKR 6480,Denim
+430,Urban Jeans,Jeans,Beige,L,Female,Autumn,PKR 3924,Nylon
+431,Elegant Hoodie,Hoodie,Brown,M,Male,Spring,PKR 2090,Wool
+432,Elegant Jeans,Jeans,Grey,S,Male,Winter,PKR 6592,Cotton
+433,Elegant Jacket,Jacket,Brown,L,Unisex,Summer,PKR 3283,Polyester
+434,Relaxed Jacket,Jacket,Yellow,S,Male,Winter,PKR 1565,Denim
+435,Floral Handbag,Handbag,Pink,,Female,Autumn,PKR 1291,Polyester
+436,Casual Sneakers,Sneakers,Black,XS,Male,Winter,PKR 7682,Polyester
+437,Graphic Skirt,Skirt,Grey,S,Male,Autumn,PKR 4839,Wool
+438,Zip Skirt,Skirt,White,S,Female,Spring,PKR 3884,Linen
+439,Classic Handbag,Handbag,Yellow,,Unisex,Autumn,PKR 5217,Denim
+440,Urban Jeans,Jeans,Red,XS,Unisex,Spring,PKR 2177,Denim
+441,Graphic Jeans,Jeans,Green,M,Female,Autumn,PKR 3133,Leather
+442,Elegant Heels,Heels,Yellow,,Unisex,Autumn,PKR 2324,Nylon
+443,Mini Shorts,Shorts,Yellow,S,Female,Winter,PKR 2137,Polyester
+444,Classic Jeans,Jeans,White,M,Female,Winter,PKR 1933,Wool
+445,Graphic Jacket,Jacket,Brown,L,Female,Summer,PKR 1301,Linen
+446,Sporty Shorts,Shorts,Red,S,Male,Winter,PKR 5867,Nylon
+447,Classic Crop Top,Crop Top,Red,M,Unisex,Spring,PKR 3039,Linen
+448,Classic Heels,Heels,Blue,,Unisex,Summer,PKR 6872,Leather
+449,Relaxed Crop Top,Crop Top,Green,M,Unisex,Summer,PKR 4897,Silk
+450,Urban Shorts,Shorts,Blue,L,Male,Summer,PKR 5201,Polyester
+451,Classic Crop Top,Crop Top,Green,L,Female,Autumn,PKR 2947,Cotton
+452,Sporty Sneakers,Sneakers,Red,M,Unisex,Winter,PKR 1346,Wool
+453,Classic Jeans,Jeans,Brown,XL,Female,Autumn,PKR 6029,Wool
+454,Casual Jeans,Jeans,Black,L,Unisex,Spring,PKR 7542,Cotton
+455,Classic Shorts,Shorts,Yellow,S,Male,Winter,PKR 5948,Polyester
+456,Elegant Hoodie,Hoodie,Grey,L,Male,Winter,PKR 4088,Linen
+457,Graphic Jacket,Jacket,Yellow,XL,Female,Spring,PKR 2775,Silk
+458,Relaxed Jacket,Jacket,White,XL,Male,Summer,PKR 8967,Leather
+459,Sporty Handbag,Handbag,Red,,Female,Autumn,PKR 4797,Wool
+460,Urban Handbag,Handbag,Grey,,Male,Summer,PKR 1626,Silk
+461,Floral Jeans,Jeans,Brown,L,Unisex,Winter,PKR 2039,Cotton
+462,Casual Jacket,Jacket,Pink,S,Unisex,Summer,PKR 8707,Silk
+463,Zip Crop Top,Crop Top,Beige,XL,Unisex,Spring,PKR 5741,Polyester
+464,Casual Skirt,Skirt,Blue,XS,Female,Summer,PKR 3810,Silk
+465,Graphic Boots,Boots,Brown,S,Male,Winter,PKR 3767,Wool
+466,Urban Jeans,Jeans,White,S,Female,Summer,PKR 3737,Denim
+467,Graphic Heels,Heels,Yellow,,Male,Winter,PKR 2158,Cotton
+468,Casual Jeans,Jeans,Red,S,Female,Autumn,PKR 5348,Leather
+469,Classic Sneakers,Sneakers,White,M,Female,Summer,PKR 5677,Wool
+470,Sporty Sneakers,Sneakers,Beige,M,Unisex,Autumn,PKR 4708,Denim
+471,Urban Hoodie,Hoodie,Red,XL,Unisex,Autumn,PKR 7221,Silk
+472,Graphic Sneakers,Sneakers,Brown,S,Unisex,Autumn,PKR 4717,Silk
+473,Sporty Heels,Heels,Blue,,Female,Spring,PKR 1452,Wool
+474,Relaxed Heels,Heels,Pink,,Female,Summer,PKR 6955,Denim
+475,Elegant Jeans,Jeans,Beige,XL,Female,Autumn,PKR 8307,Polyester
+476,Floral Sneakers,Sneakers,Beige,M,Female,Autumn,PKR 8552,Leather
+477,Relaxed Crop Top,Crop Top,Green,XL,Unisex,Autumn,PKR 4456,Wool
+478,Relaxed Crop Top,Crop Top,Red,S,Male,Summer,PKR 4100,Polyester
+479,Graphic Hoodie,Hoodie,Brown,L,Male,Summer,PKR 6843,Denim
+480,Mini Jacket,Jacket,White,L,Male,Spring,PKR 6552,Leather
+481,Relaxed Jeans,Jeans,Blue,XS,Unisex,Autumn,PKR 2034,Nylon
+482,Classic Boots,Boots,Blue,M,Unisex,Autumn,PKR 3052,Silk
+483,Floral Skirt,Skirt,Brown,L,Unisex,Spring,PKR 8465,Cotton
+484,Classic Heels,Heels,Beige,,Male,Spring,PKR 1841,Leather
+485,Casual Jacket,Jacket,Blue,L,Female,Winter,PKR 7742,Leather
+486,Classic Jeans,Jeans,Brown,L,Male,Winter,PKR 5455,Wool
+487,Classic Crop Top,Crop Top,Yellow,S,Female,Winter,PKR 7823,Leather
+488,Mini Handbag,Handbag,Blue,,Male,Spring,PKR 8782,Leather
+489,Floral Crop Top,Crop Top,Brown,M,Unisex,Winter,PKR 4275,Linen
+490,Graphic Sneakers,Sneakers,Green,L,Unisex,Winter,PKR 2886,Polyester
+491,Elegant Skirt,Skirt,Red,S,Unisex,Winter,PKR 5692,Linen
+492,Graphic Sneakers,Sneakers,Brown,S,Male,Summer,PKR 3291,Denim
+493,Zip Sneakers,Sneakers,Yellow,XL,Unisex,Autumn,PKR 2760,Cotton
+494,Sporty Jeans,Jeans,Beige,S,Male,Autumn,PKR 8855,Wool
+495,Graphic Sneakers,Sneakers,White,XL,Female,Autumn,PKR 3037,Denim
+496,Zip Jacket,Jacket,Yellow,XL,Female,Spring,PKR 2448,Denim
+497,Mini Shorts,Shorts,Pink,S,Unisex,Summer,PKR 8138,Cotton
+498,Mini Sneakers,Sneakers,Black,M,Unisex,Spring,PKR 1483,Linen
+499,Casual Skirt,Skirt,Pink,XS,Female,Summer,PKR 8008,Linen
+500,Sporty Sneakers,Sneakers,Beige,M,Unisex,Winter,PKR 4510,Wool
+501,Mini Handbag,Handbag,White,,Unisex,Summer,PKR 8126,Linen
+502,Graphic Shorts,Shorts,Yellow,L,Unisex,Winter,PKR 2255,Cotton
+503,Classic Jacket,Jacket,White,L,Unisex,Winter,PKR 4038,Linen
+504,Urban Boots,Boots,Yellow,S,Female,Summer,PKR 5974,Cotton
+505,Elegant Shorts,Shorts,Black,M,Male,Spring,PKR 4070,Polyester
+506,Floral Crop Top,Crop Top,Red,XL,Unisex,Autumn,PKR 1428,Nylon
+507,Classic Heels,Heels,Green,,Female,Winter,PKR 6953,Wool
+508,Elegant Jacket,Jacket,White,M,Female,Autumn,PKR 8097,Cotton
+509,Relaxed Skirt,Skirt,Brown,XL,Unisex,Winter,PKR 4087,Polyester
+510,Graphic Skirt,Skirt,Blue,M,Male,Winter,PKR 8222,Denim
+511,Classic Crop Top,Crop Top,White,S,Male,Spring,PKR 5056,Denim
+512,Classic Boots,Boots,Beige,L,Unisex,Summer,PKR 3712,Cotton
+513,Casual Crop Top,Crop Top,Yellow,L,Female,Winter,PKR 8674,Linen
+514,Relaxed Hoodie,Hoodie,Pink,XS,Female,Autumn,PKR 7136,Wool
+515,Relaxed Shorts,Shorts,Blue,L,Male,Spring,PKR 8083,Wool
+516,Floral Jacket,Jacket,Yellow,XL,Unisex,Autumn,PKR 6657,Nylon
+517,Zip Shorts,Shorts,Red,M,Unisex,Autumn,PKR 3604,Denim
+518,Classic Handbag,Handbag,Beige,,Unisex,Winter,PKR 8469,Silk
+519,Mini Jacket,Jacket,Beige,M,Female,Spring,PKR 5393,Wool
+520,Classic Heels,Heels,Green,,Unisex,Spring,PKR 3104,Polyester
+521,Urban Shorts,Shorts,Red,L,Male,Spring,PKR 5020,Polyester
+522,Mini Jacket,Jacket,Beige,XS,Male,Spring,PKR 7935,Nylon
+523,Sporty Jeans,Jeans,Green,M,Unisex,Spring,PKR 7510,Polyester
+524,Mini Shorts,Shorts,Yellow,L,Female,Autumn,PKR 2774,Silk
+525,Zip Hoodie,Hoodie,Blue,S,Female,Spring,PKR 8159,Cotton
+526,Urban Boots,Boots,Pink,M,Male,Autumn,PKR 2083,Leather
+527,Zip Hoodie,Hoodie,Black,XL,Male,Spring,PKR 1666,Polyester
+528,Graphic Jacket,Jacket,Yellow,XS,Female,Summer,PKR 2785,Polyester
+529,Floral Boots,Boots,White,L,Female,Summer,PKR 7189,Silk
+530,Mini Sneakers,Sneakers,Black,S,Unisex,Winter,PKR 2545,Wool
+531,Urban Heels,Heels,Blue,,Unisex,Spring,PKR 5572,Cotton
+532,Casual Crop Top,Crop Top,White,M,Male,Autumn,PKR 3283,Silk
+533,Relaxed Handbag,Handbag,White,,Female,Winter,PKR 6820,Linen
+534,Graphic Boots,Boots,Blue,L,Male,Autumn,PKR 8398,Cotton
+535,Sporty Shorts,Shorts,Brown,XL,Female,Winter,PKR 4838,Silk
+536,Elegant Handbag,Handbag,Green,,Unisex,Summer,PKR 7294,Denim
+537,Sporty Skirt,Skirt,Black,M,Female,Summer,PKR 3654,Leather
+538,Classic Hoodie,Hoodie,Black,XL,Male,Summer,PKR 5886,Leather
+539,Urban Jeans,Jeans,Beige,S,Female,Spring,PKR 7922,Linen
+540,Relaxed Crop Top,Crop Top,Grey,L,Female,Autumn,PKR 5374,Nylon
+541,Floral Heels,Heels,Blue,,Female,Autumn,PKR 5489,Denim
+542,Sporty Boots,Boots,Brown,XS,Female,Autumn,PKR 8687,Silk
+543,Graphic Jeans,Jeans,Beige,XS,Unisex,Summer,PKR 1704,Cotton
+544,Zip Heels,Heels,Black,,Unisex,Autumn,PKR 5456,Silk
+545,Sporty Heels,Heels,Yellow,,Male,Autumn,PKR 5914,Leather
+546,Mini Heels,Heels,Brown,,Female,Spring,PKR 1534,Nylon
+547,Urban Heels,Heels,Grey,,Male,Winter,PKR 1737,Denim
+548,Floral Boots,Boots,Beige,XS,Unisex,Summer,PKR 2083,Cotton
+549,Classic Heels,Heels,Beige,,Male,Winter,PKR 3509,Wool
+550,Sporty Sneakers,Sneakers,Blue,L,Unisex,Spring,PKR 1445,Wool
+551,Zip Crop Top,Crop Top,Beige,M,Male,Summer,PKR 1276,Denim
+552,Elegant Shorts,Shorts,Brown,XL,Male,Summer,PKR 1760,Wool
+553,Graphic Jeans,Jeans,Beige,M,Unisex,Winter,PKR 4073,Leather
+554,Zip Jacket,Jacket,Blue,S,Male,Autumn,PKR 7400,Polyester
+555,Graphic Handbag,Handbag,Beige,,Male,Winter,PKR 7304,Linen
+556,Elegant Jacket,Jacket,Beige,XS,Female,Autumn,PKR 6672,Cotton
+557,Relaxed Jacket,Jacket,Grey,XS,Male,Autumn,PKR 6040,Wool
+558,Graphic Hoodie,Hoodie,Brown,XL,Unisex,Winter,PKR 6752,Wool
+559,Mini Crop Top,Crop Top,Green,M,Unisex,Winter,PKR 2452,Polyester
+560,Casual Crop Top,Crop Top,Blue,S,Female,Summer,PKR 4047,Silk
+561,Elegant Hoodie,Hoodie,Red,M,Male,Winter,PKR 6968,Cotton
+562,Classic Skirt,Skirt,Beige,L,Unisex,Winter,PKR 7832,Linen
+563,Urban Heels,Heels,Grey,,Female,Spring,PKR 2584,Linen
+564,Urban Skirt,Skirt,Beige,M,Unisex,Spring,PKR 8549,Cotton
+565,Relaxed Sneakers,Sneakers,Pink,S,Female,Summer,PKR 3908,Leather
+566,Floral Sneakers,Sneakers,Brown,S,Female,Summer,PKR 6770,Cotton
+567,Floral Heels,Heels,Grey,,Male,Winter,PKR 6297,Denim
+568,Urban Boots,Boots,Brown,XL,Male,Summer,PKR 1714,Leather
+569,Sporty Skirt,Skirt,Green,XS,Female,Spring,PKR 3325,Cotton
+570,Floral Shorts,Shorts,Grey,S,Unisex,Summer,PKR 2323,Leather
+571,Mini Jeans,Jeans,Pink,M,Male,Spring,PKR 6201,Silk
+572,Classic Jacket,Jacket,Pink,XL,Unisex,Winter,PKR 3521,Wool
+573,Sporty Skirt,Skirt,Black,XL,Male,Autumn,PKR 2985,Linen
+574,Mini Boots,Boots,Grey,XL,Male,Spring,PKR 7895,Linen
+575,Classic Sneakers,Sneakers,Black,S,Female,Summer,PKR 4545,Leather
+576,Sporty Hoodie,Hoodie,Yellow,XS,Female,Winter,PKR 7388,Silk
+577,Mini Shorts,Shorts,Blue,S,Female,Summer,PKR 4357,Leather
+578,Graphic Heels,Heels,Brown,,Unisex,Spring,PKR 6057,Cotton
+579,Classic Skirt,Skirt,Red,XS,Unisex,Summer,PKR 6606,Denim
+580,Mini Jacket,Jacket,Black,L,Male,Spring,PKR 1831,Cotton
+581,Relaxed Jacket,Jacket,Yellow,XS,Unisex,Autumn,PKR 2278,Cotton
+582,Casual Skirt,Skirt,Red,L,Unisex,Autumn,PKR 3542,Denim
+583,Floral Heels,Heels,Yellow,,Male,Winter,PKR 5036,Polyester
+584,Floral Shorts,Shorts,Pink,M,Female,Autumn,PKR 7348,Cotton
+585,Relaxed Handbag,Handbag,Pink,,Unisex,Winter,PKR 8447,Wool
+586,Casual Jeans,Jeans,Brown,L,Female,Winter,PKR 1622,Wool
+587,Relaxed Boots,Boots,Beige,S,Male,Summer,PKR 2528,Wool
+588,Casual Shorts,Shorts,Blue,L,Male,Summer,PKR 4771,Nylon
+589,Mini Jacket,Jacket,Grey,XS,Female,Summer,PKR 7654,Wool
+590,Classic Boots,Boots,Pink,M,Male,Autumn,PKR 3680,Denim
+591,Sporty Heels,Heels,Green,,Unisex,Spring,PKR 8812,Cotton
+592,Floral Boots,Boots,Beige,L,Female,Winter,PKR 6300,Silk
+593,Zip Jeans,Jeans,Yellow,XS,Male,Winter,PKR 1741,Silk
+594,Graphic Hoodie,Hoodie,Grey,XS,Male,Spring,PKR 1795,Cotton
+595,Relaxed Hoodie,Hoodie,Grey,L,Female,Spring,PKR 3896,Leather
+596,Elegant Jeans,Jeans,Beige,L,Unisex,Autumn,PKR 4395,Linen
+597,Urban Jacket,Jacket,Green,M,Female,Summer,PKR 5554,Linen
+598,Floral Crop Top,Crop Top,White,S,Male,Summer,PKR 6141,Leather
+599,Relaxed Handbag,Handbag,Yellow,,Unisex,Spring,PKR 7975,Linen
+600,Floral Boots,Boots,White,S,Female,Autumn,PKR 7250,Silk
+601,Mini Jacket,Jacket,Beige,XS,Female,Summer,PKR 7096,Denim
+602,Casual Crop Top,Crop Top,White,XL,Unisex,Summer,PKR 8768,Polyester
+603,Relaxed Shorts,Shorts,Red,XS,Female,Autumn,PKR 4792,Leather
+604,Urban Heels,Heels,Brown,,Unisex,Summer,PKR 4734,Silk
+605,Graphic Jeans,Jeans,White,XL,Unisex,Spring,PKR 7011,Nylon
+606,Classic Boots,Boots,Grey,S,Unisex,Spring,PKR 8022,Denim
+607,Casual Heels,Heels,Red,,Unisex,Spring,PKR 4050,Leather
+608,Sporty Jacket,Jacket,Black,L,Unisex,Autumn,PKR 8416,Denim
+609,Urban Skirt,Skirt,Black,L,Unisex,Summer,PKR 2742,Linen
+610,Graphic Jacket,Jacket,White,S,Female,Summer,PKR 3159,Denim
+611,Floral Skirt,Skirt,Blue,M,Female,Spring,PKR 1700,Nylon
+612,Urban Crop Top,Crop Top,Brown,L,Male,Autumn,PKR 3298,Denim
+613,Graphic Sneakers,Sneakers,Beige,XL,Unisex,Winter,PKR 7821,Silk
+614,Casual Jeans,Jeans,Black,M,Unisex,Summer,PKR 8836,Silk
+615,Sporty Handbag,Handbag,Beige,,Unisex,Winter,PKR 1894,Denim
+616,Floral Handbag,Handbag,Green,,Male,Spring,PKR 7708,Leather
+617,Zip Sneakers,Sneakers,Black,M,Unisex,Spring,PKR 8963,Polyester
+618,Relaxed Crop Top,Crop Top,Blue,S,Male,Summer,PKR 4897,Silk
+619,Floral Handbag,Handbag,Pink,,Female,Spring,PKR 3536,Polyester
+620,Sporty Sneakers,Sneakers,Black,M,Unisex,Autumn,PKR 1754,Linen
+621,Sporty Jacket,Jacket,Red,S,Unisex,Spring,PKR 1220,Linen
+622,Mini Jeans,Jeans,Beige,S,Male,Summer,PKR 8818,Nylon
+623,Urban Crop Top,Crop Top,Brown,XL,Unisex,Autumn,PKR 1812,Nylon
+624,Classic Crop Top,Crop Top,Blue,M,Male,Autumn,PKR 4130,Nylon
+625,Urban Jeans,Jeans,Grey,XS,Male,Autumn,PKR 7112,Nylon
+626,Sporty Boots,Boots,Green,L,Male,Autumn,PKR 7726,Silk
+627,Relaxed Boots,Boots,White,XL,Unisex,Summer,PKR 2627,Wool
+628,Elegant Boots,Boots,Beige,L,Unisex,Spring,PKR 4282,Wool
+629,Sporty Crop Top,Crop Top,Grey,XL,Male,Summer,PKR 5292,Wool
+630,Elegant Heels,Heels,Blue,,Unisex,Autumn,PKR 3284,Linen
+631,Classic Shorts,Shorts,Grey,M,Unisex,Spring,PKR 8324,Denim
+632,Graphic Handbag,Handbag,Brown,,Male,Winter,PKR 8153,Polyester
+633,Mini Skirt,Skirt,Yellow,M,Unisex,Spring,PKR 6590,Silk
+634,Mini Boots,Boots,Pink,S,Female,Autumn,PKR 8680,Linen
+635,Zip Jacket,Jacket,White,XS,Male,Summer,PKR 3199,Leather
+636,Elegant Skirt,Skirt,Red,XS,Unisex,Autumn,PKR 7722,Linen
+637,Classic Sneakers,Sneakers,Pink,S,Unisex,Spring,PKR 6851,Nylon
+638,Sporty Boots,Boots,Brown,M,Unisex,Summer,PKR 7204,Silk
+639,Zip Sneakers,Sneakers,Beige,M,Unisex,Winter,PKR 3261,Leather
+640,Zip Skirt,Skirt,Yellow,XS,Unisex,Autumn,PKR 3086,Silk
+641,Elegant Crop Top,Crop Top,Beige,L,Male,Winter,PKR 3413,Wool
+642,Urban Shorts,Shorts,Black,L,Female,Summer,PKR 6107,Polyester
+643,Sporty Crop Top,Crop Top,Grey,XS,Unisex,Autumn,PKR 6078,Linen
+644,Classic Hoodie,Hoodie,Pink,L,Male,Winter,PKR 8387,Nylon
+645,Casual Boots,Boots,Blue,M,Male,Summer,PKR 8639,Nylon
+646,Sporty Crop Top,Crop Top,Blue,M,Male,Winter,PKR 4620,Linen
+647,Elegant Heels,Heels,Pink,,Unisex,Spring,PKR 6985,Nylon
+648,Relaxed Jeans,Jeans,Yellow,XL,Male,Spring,PKR 6567,Wool
+649,Urban Skirt,Skirt,Yellow,XL,Female,Spring,PKR 3642,Polyester
+650,Mini Shorts,Shorts,Brown,XL,Unisex,Winter,PKR 6062,Linen
+651,Graphic Crop Top,Crop Top,Beige,M,Unisex,Spring,PKR 4777,Linen
+652,Relaxed Shorts,Shorts,Red,XS,Female,Spring,PKR 2426,Wool
+653,Relaxed Heels,Heels,Beige,,Male,Autumn,PKR 7627,Polyester
+654,Graphic Jeans,Jeans,Pink,XL,Unisex,Winter,PKR 5017,Leather
+655,Graphic Jacket,Jacket,Green,XL,Unisex,Summer,PKR 2556,Silk
+656,Sporty Jacket,Jacket,Grey,XL,Male,Spring,PKR 6729,Denim
+657,Classic Skirt,Skirt,Blue,M,Male,Winter,PKR 7778,Nylon
+658,Sporty Shorts,Shorts,Red,L,Unisex,Autumn,PKR 2623,Linen
+659,Classic Jeans,Jeans,Pink,S,Male,Winter,PKR 3825,Silk
+660,Urban Hoodie,Hoodie,Blue,XS,Unisex,Autumn,PKR 4094,Cotton
+661,Mini Skirt,Skirt,Yellow,S,Unisex,Autumn,PKR 6450,Nylon
+662,Floral Handbag,Handbag,Grey,,Female,Summer,PKR 3465,Polyester
+663,Elegant Boots,Boots,Brown,XS,Unisex,Autumn,PKR 5654,Nylon
+664,Relaxed Jacket,Jacket,White,M,Female,Winter,PKR 8967,Silk
+665,Classic Crop Top,Crop Top,Brown,L,Male,Autumn,PKR 4546,Cotton
+666,Urban Handbag,Handbag,Black,,Female,Summer,PKR 2115,Leather
+667,Mini Jeans,Jeans,Grey,L,Male,Winter,PKR 8789,Wool
+668,Floral Jacket,Jacket,Blue,L,Male,Summer,PKR 5850,Silk
+669,Urban Jeans,Jeans,Grey,M,Unisex,Summer,PKR 2518,Leather
+670,Relaxed Crop Top,Crop Top,Brown,XS,Female,Spring,PKR 4886,Denim
+671,Relaxed Sneakers,Sneakers,Pink,XS,Male,Winter,PKR 6711,Leather
+672,Casual Shorts,Shorts,Brown,L,Female,Winter,PKR 5869,Silk
+673,Urban Heels,Heels,White,,Female,Spring,PKR 1234,Leather
+674,Relaxed Shorts,Shorts,Black,L,Unisex,Autumn,PKR 8949,Leather
+675,Floral Shorts,Shorts,White,M,Unisex,Autumn,PKR 7587,Denim
+676,Mini Heels,Heels,Yellow,,Unisex,Autumn,PKR 3155,Cotton
+677,Sporty Boots,Boots,White,XL,Female,Winter,PKR 5218,Leather
+678,Urban Jeans,Jeans,Beige,XL,Female,Autumn,PKR 1785,Leather
+679,Mini Jeans,Jeans,Red,XS,Male,Autumn,PKR 3312,Denim
+680,Elegant Jacket,Jacket,Beige,M,Male,Spring,PKR 8493,Linen
+681,Floral Hoodie,Hoodie,Red,L,Unisex,Autumn,PKR 2528,Wool
+682,Zip Hoodie,Hoodie,Pink,XL,Unisex,Spring,PKR 1910,Linen
+683,Casual Crop Top,Crop Top,Black,XL,Female,Autumn,PKR 5546,Leather
+684,Zip Crop Top,Crop Top,Black,XS,Male,Spring,PKR 1854,Nylon
+685,Casual Skirt,Skirt,Blue,XL,Female,Winter,PKR 3726,Linen
+686,Sporty Shorts,Shorts,Green,L,Unisex,Spring,PKR 3901,Polyester
+687,Zip Crop Top,Crop Top,Yellow,XS,Unisex,Autumn,PKR 4593,Wool
+688,Casual Jacket,Jacket,Red,L,Unisex,Winter,PKR 4711,Leather
+689,Zip Handbag,Handbag,White,,Female,Summer,PKR 1699,Polyester
+690,Casual Handbag,Handbag,Red,,Male,Spring,PKR 3184,Nylon
+691,Urban Shorts,Shorts,Beige,L,Female,Autumn,PKR 6371,Linen
+692,Relaxed Handbag,Handbag,Pink,,Unisex,Autumn,PKR 5542,Nylon
+693,Floral Skirt,Skirt,Black,XL,Female,Spring,PKR 4797,Polyester
+694,Sporty Crop Top,Crop Top,White,S,Female,Spring,PKR 8257,Denim
+695,Sporty Crop Top,Crop Top,Grey,XL,Male,Winter,PKR 3312,Linen
+696,Casual Jeans,Jeans,Red,XL,Unisex,Winter,PKR 5995,Polyester
+697,Casual Handbag,Handbag,Beige,,Unisex,Summer,PKR 7034,Cotton
+698,Floral Heels,Heels,White,,Female,Spring,PKR 5686,Linen
+699,Mini Boots,Boots,Black,S,Unisex,Winter,PKR 8031,Wool
+700,Graphic Jeans,Jeans,Beige,XL,Male,Winter,PKR 8728,Leather
+701,Urban Sneakers,Sneakers,Yellow,XS,Male,Autumn,PKR 8690,Nylon
+702,Zip Jeans,Jeans,Beige,L,Male,Summer,PKR 6899,Leather
+703,Floral Hoodie,Hoodie,Blue,XS,Unisex,Autumn,PKR 2483,Linen
+704,Mini Skirt,Skirt,Pink,S,Female,Winter,PKR 6314,Leather
+705,Zip Heels,Heels,Green,,Female,Autumn,PKR 5770,Cotton
+706,Relaxed Sneakers,Sneakers,Pink,XS,Female,Autumn,PKR 5054,Silk
+707,Casual Hoodie,Hoodie,Pink,XS,Unisex,Summer,PKR 5274,Nylon
+708,Classic Sneakers,Sneakers,Beige,M,Unisex,Spring,PKR 1733,Wool
+709,Classic Skirt,Skirt,Brown,XL,Unisex,Summer,PKR 6336,Linen
+710,Elegant Skirt,Skirt,Yellow,M,Female,Summer,PKR 6207,Silk
+711,Floral Crop Top,Crop Top,Green,S,Male,Spring,PKR 8207,Nylon
+712,Urban Jeans,Jeans,Black,S,Female,Winter,PKR 5945,Linen
+713,Elegant Jacket,Jacket,Red,XS,Male,Summer,PKR 1931,Silk
+714,Graphic Sneakers,Sneakers,Yellow,S,Male,Autumn,PKR 1352,Nylon
+715,Floral Jacket,Jacket,White,S,Male,Autumn,PKR 3623,Denim
+716,Floral Heels,Heels,Black,,Unisex,Winter,PKR 2770,Polyester
+717,Graphic Handbag,Handbag,Red,,Male,Summer,PKR 3275,Wool
+718,Zip Skirt,Skirt,Beige,S,Male,Autumn,PKR 4670,Leather
+719,Classic Hoodie,Hoodie,Black,L,Unisex,Winter,PKR 7943,Silk
+720,Mini Crop Top,Crop Top,Black,S,Male,Summer,PKR 6814,Silk
+721,Graphic Skirt,Skirt,Brown,M,Female,Spring,PKR 1583,Linen
+722,Classic Shorts,Shorts,Yellow,M,Unisex,Summer,PKR 5980,Denim
+723,Urban Heels,Heels,Red,,Unisex,Spring,PKR 8918,Wool
+724,Zip Jacket,Jacket,Green,L,Female,Summer,PKR 5450,Silk
+725,Relaxed Skirt,Skirt,Beige,XL,Female,Summer,PKR 8500,Nylon
+726,Urban Hoodie,Hoodie,Green,S,Male,Autumn,PKR 6364,Leather
+727,Relaxed Shorts,Shorts,Black,M,Female,Spring,PKR 6411,Linen
+728,Floral Jeans,Jeans,Yellow,XL,Male,Winter,PKR 3992,Nylon
+729,Sporty Skirt,Skirt,Grey,L,Unisex,Spring,PKR 4392,Polyester
+730,Classic Jacket,Jacket,Red,XL,Female,Summer,PKR 6460,Cotton
+731,Urban Hoodie,Hoodie,White,XS,Unisex,Autumn,PKR 4623,Denim
+732,Sporty Sneakers,Sneakers,White,L,Female,Summer,PKR 4590,Denim
+733,Classic Hoodie,Hoodie,Grey,L,Male,Summer,PKR 8152,Nylon
+734,Floral Heels,Heels,Beige,,Unisex,Spring,PKR 3212,Polyester
+735,Floral Handbag,Handbag,White,,Unisex,Winter,PKR 2010,Wool
+736,Zip Jeans,Jeans,Pink,XL,Unisex,Autumn,PKR 2651,Polyester
+737,Urban Jacket,Jacket,Green,XL,Unisex,Autumn,PKR 2067,Silk
+738,Sporty Jeans,Jeans,Green,L,Female,Spring,PKR 5810,Leather
+739,Elegant Hoodie,Hoodie,Black,XL,Unisex,Winter,PKR 5031,Polyester
+740,Casual Sneakers,Sneakers,Pink,M,Male,Autumn,PKR 6218,Silk
+741,Urban Jacket,Jacket,Yellow,XS,Female,Spring,PKR 1707,Polyester
+742,Casual Shorts,Shorts,Beige,XS,Female,Spring,PKR 7075,Nylon
+743,Classic Sneakers,Sneakers,Yellow,L,Female,Summer,PKR 5887,Denim
+744,Elegant Jacket,Jacket,Yellow,L,Female,Summer,PKR 6275,Denim
+745,Graphic Hoodie,Hoodie,White,M,Male,Summer,PKR 4224,Denim
+746,Urban Heels,Heels,Black,,Female,Winter,PKR 5321,Silk
+747,Floral Crop Top,Crop Top,Pink,S,Unisex,Summer,PKR 3589,Polyester
+748,Classic Hoodie,Hoodie,Blue,XL,Unisex,Summer,PKR 6834,Leather
+749,Classic Hoodie,Hoodie,Yellow,XS,Male,Spring,PKR 3662,Polyester
+750,Zip Shorts,Shorts,Blue,S,Unisex,Winter,PKR 3361,Silk
+751,Sporty Skirt,Skirt,Beige,XL,Male,Summer,PKR 4713,Wool
+752,Mini Jeans,Jeans,Beige,L,Male,Autumn,PKR 8595,Nylon
+753,Relaxed Crop Top,Crop Top,Pink,XL,Female,Summer,PKR 5939,Linen
+754,Mini Skirt,Skirt,Brown,M,Unisex,Spring,PKR 4613,Polyester
+755,Casual Heels,Heels,Red,,Female,Winter,PKR 2976,Linen
+756,Casual Sneakers,Sneakers,Beige,XL,Female,Autumn,PKR 7301,Silk
+757,Mini Jeans,Jeans,Red,XS,Male,Summer,PKR 7736,Silk
+758,Classic Jeans,Jeans,Grey,S,Female,Winter,PKR 8369,Leather
+759,Classic Handbag,Handbag,Black,,Female,Summer,PKR 7969,Cotton
+760,Relaxed Heels,Heels,Grey,,Female,Summer,PKR 6415,Nylon
+761,Relaxed Crop Top,Crop Top,Yellow,XL,Male,Spring,PKR 4477,Wool
+762,Mini Shorts,Shorts,Black,L,Male,Spring,PKR 4491,Silk
+763,Relaxed Sneakers,Sneakers,Beige,S,Male,Spring,PKR 8728,Leather
+764,Sporty Sneakers,Sneakers,Blue,L,Female,Autumn,PKR 8166,Wool
+765,Floral Crop Top,Crop Top,White,XS,Unisex,Autumn,PKR 5111,Linen
+766,Zip Sneakers,Sneakers,Beige,M,Male,Summer,PKR 3828,Wool
+767,Floral Crop Top,Crop Top,White,XL,Male,Winter,PKR 7293,Wool
+768,Floral Crop Top,Crop Top,Brown,S,Unisex,Summer,PKR 6724,Wool
+769,Casual Handbag,Handbag,Green,,Female,Summer,PKR 6573,Silk
+770,Classic Jacket,Jacket,Beige,XL,Unisex,Spring,PKR 4201,Silk
+771,Graphic Heels,Heels,Grey,,Female,Winter,PKR 3963,Leather
+772,Floral Skirt,Skirt,White,S,Female,Autumn,PKR 3918,Polyester
+773,Relaxed Sneakers,Sneakers,Yellow,XS,Male,Autumn,PKR 5353,Polyester
+774,Zip Heels,Heels,Beige,,Unisex,Autumn,PKR 3716,Denim
+775,Sporty Handbag,Handbag,Black,,Female,Autumn,PKR 7742,Wool
+776,Elegant Skirt,Skirt,Pink,S,Male,Spring,PKR 6459,Cotton
+777,Classic Heels,Heels,Red,,Female,Autumn,PKR 1509,Wool
+778,Zip Crop Top,Crop Top,Yellow,XS,Unisex,Summer,PKR 7438,Denim
+779,Urban Sneakers,Sneakers,Pink,XS,Female,Autumn,PKR 6207,Linen
+780,Mini Hoodie,Hoodie,Black,XL,Unisex,Summer,PKR 3664,Linen
+781,Urban Handbag,Handbag,Black,,Male,Winter,PKR 4057,Cotton
+782,Relaxed Jacket,Jacket,Red,M,Unisex,Winter,PKR 4187,Nylon
+783,Elegant Crop Top,Crop Top,Blue,XS,Female,Summer,PKR 8007,Nylon
+784,Graphic Skirt,Skirt,Beige,XS,Unisex,Autumn,PKR 3863,Leather
+785,Graphic Crop Top,Crop Top,Grey,S,Female,Autumn,PKR 7811,Wool
+786,Floral Heels,Heels,Pink,,Female,Spring,PKR 8017,Cotton
+787,Classic Skirt,Skirt,Blue,XL,Male,Winter,PKR 6168,Cotton
+788,Zip Sneakers,Sneakers,Brown,S,Unisex,Autumn,PKR 4399,Polyester
+789,Classic Skirt,Skirt,Grey,S,Unisex,Spring,PKR 5932,Leather
+790,Casual Handbag,Handbag,White,,Male,Winter,PKR 1869,Leather
+791,Elegant Shorts,Shorts,Black,L,Unisex,Spring,PKR 2271,Nylon
+792,Relaxed Heels,Heels,Yellow,,Female,Autumn,PKR 1552,Silk
+793,Classic Shorts,Shorts,Beige,L,Male,Spring,PKR 8610,Silk
+794,Classic Crop Top,Crop Top,White,M,Male,Autumn,PKR 6065,Nylon
+795,Relaxed Jacket,Jacket,Blue,XL,Female,Summer,PKR 6375,Nylon
+796,Relaxed Skirt,Skirt,Brown,XL,Unisex,Spring,PKR 1928,Leather
+797,Relaxed Heels,Heels,Beige,,Female,Winter,PKR 7860,Cotton
+798,Relaxed Shorts,Shorts,Black,XS,Male,Summer,PKR 4107,Polyester
+799,Zip Skirt,Skirt,Yellow,XS,Female,Spring,PKR 4527,Linen
+800,Zip Sneakers,Sneakers,Brown,M,Male,Autumn,PKR 7876,Silk
+801,Zip Shorts,Shorts,Blue,XS,Unisex,Autumn,PKR 6736,Cotton
+802,Graphic Boots,Boots,White,L,Female,Winter,PKR 1555,Nylon
+803,Sporty Handbag,Handbag,Green,,Unisex,Winter,PKR 6539,Polyester
+804,Floral Boots,Boots,Yellow,M,Male,Spring,PKR 7332,Polyester
+805,Zip Shorts,Shorts,Blue,S,Male,Summer,PKR 8330,Cotton
+806,Elegant Hoodie,Hoodie,Blue,S,Male,Spring,PKR 4852,Denim
+807,Sporty Jacket,Jacket,Red,L,Female,Autumn,PKR 5586,Wool
+808,Zip Crop Top,Crop Top,White,XL,Female,Summer,PKR 5562,Linen
+809,Elegant Heels,Heels,Blue,,Female,Autumn,PKR 1496,Linen
+810,Relaxed Sneakers,Sneakers,Pink,XS,Male,Winter,PKR 7232,Cotton
+811,Urban Handbag,Handbag,Yellow,,Female,Autumn,PKR 1554,Nylon
+812,Mini Jeans,Jeans,Blue,S,Male,Winter,PKR 8207,Leather
+813,Classic Heels,Heels,Grey,,Male,Summer,PKR 5656,Cotton
+814,Graphic Jacket,Jacket,Brown,XL,Male,Spring,PKR 2093,Leather
+815,Zip Hoodie,Hoodie,Yellow,XL,Unisex,Autumn,PKR 4646,Denim
+816,Elegant Handbag,Handbag,Yellow,,Unisex,Autumn,PKR 6335,Polyester
+817,Urban Shorts,Shorts,Grey,S,Female,Winter,PKR 7985,Nylon
+818,Sporty Shorts,Shorts,Green,XS,Female,Spring,PKR 2712,Nylon
+819,Zip Skirt,Skirt,White,S,Male,Autumn,PKR 7504,Wool
+820,Elegant Handbag,Handbag,Green,,Female,Summer,PKR 4661,Cotton
+821,Casual Skirt,Skirt,Black,XL,Male,Spring,PKR 3234,Cotton
+822,Zip Sneakers,Sneakers,Yellow,M,Unisex,Winter,PKR 3748,Cotton
+823,Floral Heels,Heels,Yellow,,Unisex,Summer,PKR 4814,Linen
+824,Casual Hoodie,Hoodie,Blue,XS,Unisex,Summer,PKR 1431,Leather
+825,Floral Shorts,Shorts,Red,XS,Unisex,Autumn,PKR 4916,Denim
+826,Mini Handbag,Handbag,Beige,,Female,Spring,PKR 6243,Cotton
+827,Classic Shorts,Shorts,White,XL,Male,Autumn,PKR 1379,Silk
+828,Floral Skirt,Skirt,Blue,XS,Male,Autumn,PKR 8878,Polyester
+829,Classic Hoodie,Hoodie,Brown,XS,Female,Summer,PKR 4458,Cotton
+830,Casual Jeans,Jeans,Grey,S,Male,Summer,PKR 3486,Polyester
+831,Relaxed Heels,Heels,Black,,Male,Summer,PKR 1855,Cotton
+832,Sporty Boots,Boots,Yellow,S,Female,Winter,PKR 7068,Wool
+833,Floral Heels,Heels,Black,,Male,Spring,PKR 2098,Linen
+834,Sporty Handbag,Handbag,Brown,,Male,Winter,PKR 4060,Linen
+835,Elegant Boots,Boots,Blue,XS,Female,Winter,PKR 3582,Silk
+836,Sporty Shorts,Shorts,Red,XL,Male,Autumn,PKR 6809,Linen
+837,Relaxed Skirt,Skirt,Beige,S,Female,Spring,PKR 8259,Polyester
+838,Classic Sneakers,Sneakers,Blue,XS,Female,Autumn,PKR 4195,Leather
+839,Mini Handbag,Handbag,Brown,,Female,Spring,PKR 3267,Wool
+840,Relaxed Handbag,Handbag,Red,,Female,Summer,PKR 7385,Nylon
+841,Zip Sneakers,Sneakers,Blue,M,Unisex,Summer,PKR 7641,Nylon
+842,Mini Sneakers,Sneakers,Yellow,S,Unisex,Autumn,PKR 1864,Cotton
+843,Graphic Sneakers,Sneakers,Grey,XL,Unisex,Spring,PKR 3692,Wool
+844,Casual Handbag,Handbag,Red,,Female,Autumn,PKR 6359,Linen
+845,Sporty Crop Top,Crop Top,Brown,L,Unisex,Spring,PKR 2106,Leather
+846,Zip Crop Top,Crop Top,Red,S,Unisex,Spring,PKR 7220,Denim
+847,Zip Shorts,Shorts,Blue,L,Female,Summer,PKR 2927,Leather
+848,Sporty Jacket,Jacket,Brown,L,Female,Winter,PKR 3252,Polyester
+849,Floral Boots,Boots,Grey,S,Unisex,Spring,PKR 5691,Polyester
+850,Elegant Jeans,Jeans,Brown,S,Female,Summer,PKR 3692,Silk
+851,Elegant Heels,Heels,Blue,,Female,Spring,PKR 1988,Nylon
+852,Sporty Jeans,Jeans,Blue,L,Male,Winter,PKR 7389,Silk
+853,Graphic Shorts,Shorts,Yellow,L,Female,Summer,PKR 7135,Polyester
+854,Elegant Handbag,Handbag,Brown,,Female,Autumn,PKR 3824,Linen
+855,Relaxed Jeans,Jeans,Grey,S,Unisex,Winter,PKR 5949,Silk
+856,Elegant Sneakers,Sneakers,Yellow,XS,Female,Autumn,PKR 1233,Cotton
+857,Elegant Jeans,Jeans,Pink,S,Female,Spring,PKR 8677,Denim
+858,Urban Heels,Heels,Black,,Female,Summer,PKR 2129,Polyester
+859,Sporty Heels,Heels,Yellow,,Male,Summer,PKR 5455,Nylon
+860,Mini Hoodie,Hoodie,Grey,XL,Female,Winter,PKR 6382,Polyester
+861,Elegant Crop Top,Crop Top,Red,L,Unisex,Spring,PKR 6515,Silk
+862,Mini Jeans,Jeans,Grey,XL,Female,Winter,PKR 3441,Silk
+863,Classic Hoodie,Hoodie,Blue,XL,Female,Summer,PKR 6086,Polyester
+864,Mini Handbag,Handbag,Black,,Unisex,Summer,PKR 6045,Nylon
+865,Casual Skirt,Skirt,Beige,M,Male,Winter,PKR 2331,Leather
+866,Sporty Jeans,Jeans,Beige,XL,Female,Spring,PKR 2702,Cotton
+867,Relaxed Skirt,Skirt,Red,XS,Female,Winter,PKR 4382,Polyester
+868,Casual Handbag,Handbag,White,,Male,Summer,PKR 6316,Linen
+869,Elegant Jeans,Jeans,Yellow,XL,Unisex,Summer,PKR 1833,Silk
+870,Sporty Sneakers,Sneakers,White,M,Female,Spring,PKR 1722,Silk
+871,Casual Jacket,Jacket,Blue,XS,Unisex,Winter,PKR 4046,Denim
+872,Relaxed Jacket,Jacket,Black,XL,Unisex,Spring,PKR 8716,Silk
+873,Sporty Jacket,Jacket,Yellow,L,Female,Summer,PKR 1542,Silk
+874,Casual Boots,Boots,Green,L,Male,Summer,PKR 5633,Denim
+875,Casual Jeans,Jeans,Beige,M,Male,Winter,PKR 5223,Silk
+876,Floral Jacket,Jacket,Grey,XS,Unisex,Winter,PKR 5823,Linen
+877,Sporty Sneakers,Sneakers,Green,XS,Unisex,Winter,PKR 2698,Cotton
+878,Zip Skirt,Skirt,White,M,Male,Spring,PKR 1244,Wool
+879,Mini Handbag,Handbag,Green,,Unisex,Autumn,PKR 8414,Cotton
+880,Elegant Boots,Boots,Brown,S,Unisex,Summer,PKR 7429,Linen
+881,Elegant Jacket,Jacket,Brown,M,Female,Summer,PKR 4604,Wool
+882,Elegant Shorts,Shorts,Green,M,Female,Summer,PKR 5958,Wool
+883,Floral Handbag,Handbag,Yellow,,Unisex,Summer,PKR 5681,Polyester
+884,Sporty Handbag,Handbag,Brown,,Male,Winter,PKR 4678,Linen
+885,Sporty Heels,Heels,Beige,,Male,Autumn,PKR 5598,Denim
+886,Mini Crop Top,Crop Top,Blue,XL,Unisex,Summer,PKR 5422,Wool
+887,Classic Boots,Boots,Yellow,XS,Male,Spring,PKR 8718,Silk
+888,Mini Shorts,Shorts,Pink,S,Female,Summer,PKR 4807,Silk
+889,Mini Handbag,Handbag,Pink,,Female,Spring,PKR 5498,Wool
+890,Graphic Handbag,Handbag,Grey,,Female,Winter,PKR 7625,Linen
+891,Casual Hoodie,Hoodie,Grey,L,Unisex,Winter,PKR 6257,Cotton
+892,Floral Jeans,Jeans,Yellow,XL,Unisex,Winter,PKR 3383,Nylon
+893,Floral Sneakers,Sneakers,Red,XS,Male,Summer,PKR 2949,Polyester
+894,Elegant Handbag,Handbag,Pink,,Unisex,Spring,PKR 8563,Linen
+895,Casual Jacket,Jacket,Blue,S,Male,Summer,PKR 1424,Nylon
+896,Mini Shorts,Shorts,Yellow,XS,Female,Winter,PKR 4310,Leather
+897,Graphic Sneakers,Sneakers,Grey,M,Male,Spring,PKR 2427,Denim
+898,Classic Handbag,Handbag,Yellow,,Female,Summer,PKR 3117,Denim
+899,Floral Sneakers,Sneakers,Blue,M,Unisex,Winter,PKR 2227,Linen
+900,Mini Heels,Heels,Black,,Female,Winter,PKR 2054,Silk
+901,Elegant Heels,Heels,Red,,Female,Spring,PKR 6234,Polyester
+902,Casual Heels,Heels,Brown,,Male,Autumn,PKR 6740,Cotton
+903,Urban Skirt,Skirt,Beige,XL,Female,Winter,PKR 1680,Silk
+904,Sporty Jeans,Jeans,Pink,L,Male,Summer,PKR 6455,Polyester
+905,Classic Boots,Boots,Brown,S,Male,Autumn,PKR 6156,Wool
+906,Floral Hoodie,Hoodie,Brown,XL,Male,Autumn,PKR 5683,Nylon
+907,Mini Jeans,Jeans,Grey,L,Male,Spring,PKR 3654,Leather
+908,Elegant Handbag,Handbag,Green,,Male,Winter,PKR 6215,Leather
+909,Sporty Hoodie,Hoodie,Yellow,M,Male,Summer,PKR 2208,Polyester
+910,Graphic Sneakers,Sneakers,Beige,S,Unisex,Autumn,PKR 4933,Leather
+911,Classic Shorts,Shorts,Blue,XS,Male,Summer,PKR 4713,Wool
+912,Classic Hoodie,Hoodie,Grey,M,Female,Winter,PKR 4375,Denim
+913,Relaxed Hoodie,Hoodie,White,XL,Male,Spring,PKR 4331,Wool
+914,Floral Hoodie,Hoodie,Beige,XL,Male,Spring,PKR 7988,Polyester
+915,Graphic Shorts,Shorts,Grey,M,Male,Winter,PKR 8575,Nylon
+916,Casual Sneakers,Sneakers,White,M,Female,Winter,PKR 5109,Silk
+917,Casual Crop Top,Crop Top,Green,L,Female,Winter,PKR 8677,Silk
+918,Zip Shorts,Shorts,Black,XS,Female,Autumn,PKR 3515,Linen
+919,Zip Hoodie,Hoodie,Blue,S,Unisex,Spring,PKR 4202,Cotton
+920,Sporty Sneakers,Sneakers,Grey,M,Unisex,Winter,PKR 3048,Silk
+921,Zip Heels,Heels,Blue,,Unisex,Spring,PKR 2777,Linen
+922,Relaxed Jeans,Jeans,Beige,L,Female,Spring,PKR 1346,Denim
+923,Relaxed Handbag,Handbag,Black,,Female,Winter,PKR 3654,Silk
+924,Sporty Hoodie,Hoodie,Blue,M,Female,Winter,PKR 4661,Nylon
+925,Casual Jacket,Jacket,White,XS,Male,Autumn,PKR 2281,Nylon
+926,Classic Skirt,Skirt,White,M,Male,Summer,PKR 4618,Leather
+927,Mini Crop Top,Crop Top,Blue,XL,Male,Summer,PKR 7717,Silk
+928,Classic Sneakers,Sneakers,Pink,XS,Female,Autumn,PKR 4970,Nylon
+929,Graphic Boots,Boots,White,M,Female,Autumn,PKR 2539,Silk
+930,Relaxed Hoodie,Hoodie,Red,L,Female,Spring,PKR 3750,Nylon
+931,Relaxed Jeans,Jeans,Beige,S,Female,Autumn,PKR 6525,Silk
+932,Classic Sneakers,Sneakers,Beige,M,Female,Winter,PKR 7537,Linen
+933,Elegant Handbag,Handbag,Red,,Unisex,Autumn,PKR 1497,Linen
+934,Zip Boots,Boots,Grey,XS,Female,Summer,PKR 2780,Leather
+935,Graphic Crop Top,Crop Top,Brown,L,Female,Autumn,PKR 7979,Denim
+936,Urban Handbag,Handbag,Grey,,Male,Spring,PKR 7850,Leather
+937,Relaxed Skirt,Skirt,Blue,S,Unisex,Winter,PKR 1277,Wool
+938,Sporty Jacket,Jacket,Grey,XS,Female,Summer,PKR 3702,Cotton
+939,Floral Jacket,Jacket,Grey,XL,Unisex,Winter,PKR 5736,Nylon
+940,Sporty Boots,Boots,Black,XS,Male,Summer,PKR 8627,Cotton
+941,Casual Jacket,Jacket,Black,XS,Female,Spring,PKR 1834,Polyester
+942,Urban Heels,Heels,Brown,,Female,Winter,PKR 1281,Polyester
+943,Casual Crop Top,Crop Top,Grey,XL,Female,Winter,PKR 6059,Nylon
+944,Mini Jeans,Jeans,Green,XL,Unisex,Autumn,PKR 3941,Polyester
+945,Zip Boots,Boots,Brown,XS,Unisex,Autumn,PKR 6476,Polyester
+946,Floral Handbag,Handbag,White,,Unisex,Spring,PKR 7281,Linen
+947,Classic Hoodie,Hoodie,Yellow,L,Male,Autumn,PKR 6297,Polyester
+948,Classic Skirt,Skirt,Black,M,Male,Autumn,PKR 8211,Leather
+949,Urban Handbag,Handbag,Blue,,Male,Summer,PKR 5372,Polyester
+950,Urban Jeans,Jeans,Yellow,M,Male,Summer,PKR 5261,Denim
+951,Urban Handbag,Handbag,White,,Female,Spring,PKR 8506,Nylon
+952,Relaxed Jeans,Jeans,Beige,L,Female,Summer,PKR 2230,Denim
+953,Urban Skirt,Skirt,Yellow,XL,Female,Spring,PKR 2844,Denim
+954,Casual Skirt,Skirt,Green,XS,Unisex,Summer,PKR 8688,Denim
+955,Relaxed Heels,Heels,Beige,,Female,Spring,PKR 5079,Nylon
+956,Elegant Jacket,Jacket,Red,XS,Female,Autumn,PKR 1911,Denim
+957,Classic Handbag,Handbag,Yellow,,Male,Winter,PKR 4226,Leather
+958,Mini Hoodie,Hoodie,Blue,M,Female,Summer,PKR 5378,Denim
+959,Classic Crop Top,Crop Top,Beige,M,Male,Winter,PKR 7009,Denim
+960,Classic Jeans,Jeans,Blue,XS,Male,Autumn,PKR 8251,Leather
+961,Sporty Jacket,Jacket,Grey,L,Female,Spring,PKR 4048,Leather
+962,Relaxed Sneakers,Sneakers,Red,S,Female,Winter,PKR 4167,Nylon
+963,Mini Jacket,Jacket,Yellow,S,Female,Winter,PKR 5423,Nylon
+964,Graphic Hoodie,Hoodie,White,XS,Male,Summer,PKR 3073,Wool
+965,Zip Sneakers,Sneakers,Grey,S,Female,Spring,PKR 8551,Linen
+966,Relaxed Crop Top,Crop Top,Yellow,XL,Female,Spring,PKR 2247,Nylon
+967,Classic Boots,Boots,Pink,XS,Female,Autumn,PKR 5480,Linen
+968,Floral Sneakers,Sneakers,Yellow,XS,Female,Spring,PKR 4315,Cotton
+969,Casual Hoodie,Hoodie,White,S,Unisex,Autumn,PKR 1658,Polyester
+970,Relaxed Boots,Boots,Grey,L,Female,Winter,PKR 3720,Nylon
+971,Urban Jeans,Jeans,Pink,XS,Unisex,Winter,PKR 2672,Denim
+972,Urban Sneakers,Sneakers,Brown,XS,Male,Winter,PKR 2722,Silk
+973,Floral Jacket,Jacket,Black,L,Unisex,Summer,PKR 4581,Linen
+974,Relaxed Jeans,Jeans,Green,M,Unisex,Autumn,PKR 3989,Linen
+975,Mini Sneakers,Sneakers,Red,XS,Female,Winter,PKR 6421,Wool
+976,Zip Sneakers,Sneakers,Pink,XL,Female,Autumn,PKR 3234,Nylon
+977,Sporty Sneakers,Sneakers,Blue,XS,Female,Summer,PKR 4223,Wool
+978,Classic Handbag,Handbag,Pink,,Male,Spring,PKR 4409,Cotton
+979,Graphic Heels,Heels,Beige,,Male,Autumn,PKR 2402,Linen
+980,Classic Shorts,Shorts,Brown,M,Male,Autumn,PKR 3053,Denim
+981,Floral Handbag,Handbag,Brown,,Male,Spring,PKR 5427,Denim
+982,Floral Jacket,Jacket,Green,M,Female,Winter,PKR 8781,Polyester
+983,Urban Jeans,Jeans,White,L,Male,Winter,PKR 5960,Cotton
+984,Elegant Hoodie,Hoodie,Black,XS,Female,Autumn,PKR 6345,Polyester
+985,Mini Hoodie,Hoodie,White,S,Unisex,Autumn,PKR 2015,Leather
+986,Floral Crop Top,Crop Top,Grey,L,Female,Winter,PKR 5857,Silk
+987,Sporty Jacket,Jacket,Green,S,Male,Summer,PKR 5525,Linen
+988,Elegant Jeans,Jeans,Green,M,Male,Autumn,PKR 8950,Silk
+989,Casual Jacket,Jacket,White,M,Female,Summer,PKR 2411,Denim
+990,Floral Hoodie,Hoodie,Blue,XL,Male,Autumn,PKR 5059,Polyester
+991,Zip Crop Top,Crop Top,Black,XS,Male,Autumn,PKR 6128,Polyester
+992,Mini Jeans,Jeans,Green,S,Female,Autumn,PKR 3702,Linen
+993,Elegant Skirt,Skirt,Red,M,Female,Spring,PKR 6843,Polyester
+994,Floral Crop Top,Crop Top,Red,L,Female,Autumn,PKR 2599,Cotton
+995,Urban Hoodie,Hoodie,Beige,L,Male,Spring,PKR 4627,Nylon
+996,Mini Hoodie,Hoodie,Pink,M,Female,Summer,PKR 2610,Silk
+997,Mini Skirt,Skirt,Yellow,M,Female,Winter,PKR 2271,Nylon
+998,Mini Boots,Boots,Black,L,Unisex,Winter,PKR 1696,Denim
+999,Graphic Shorts,Shorts,Yellow,S,Female,Spring,PKR 8580,Silk
+1000,Relaxed Hoodie,Hoodie,Beige,M,Unisex,Winter,PKR 8580,Leather
